@@ -1,0 +1,53 @@
+“A view to the cloud: What really happens when  your data is stored on far-off servers in distant data centers"
+              
+2011 yılında IBM tarafında yapılan çalışmada her gün 
+yaklaşık 3 quantillion bayt veri üretildiğini düşünüyorken bu 
+sayı 2016’da Cisco Global Cloud Index tarafından 220 bin 
+quantillion bayta kadar ulaşabilecek veri üretimine hazırlık 
+yapması ve gelecek günlerde karşılaşacağımız, tüm insanlar ve 
+makinelere yönelik, 850(ZB) zettabayta kadar ulaşacak olan 
+veri üretimi. Bu yükselişte internet kullanıcılarındaki 
+çoğalma, sosyal medya, makine öğrenmesi ve nesnelerin 
+interneti vb. gibi durumlar söz konusu. Bu verilerin çoğu 
+geçici olarak kabul edilir ve bu nedenle depolanmaz. Ancak 
+küçük veri grupları birleşerek büyük bir alanı işgal edebilir. 
+Öyle ki verilen örnek 1MB= “ “ olsaydı 2ZB neredeyse Konya 
+Ovası kadar alan kaplayacaktı. Neyse ki veri soyut bir 
+kavramdır ve yer kaplamaz. Yani bu benzetmeye göre şuan bir 
+dünya büyüklüğündeki verileri sadece lojik 0 ve lojik 1’lerden 
+oluşan bloklara ve raflara kaldırabilir, daha sonra 
+istediğimiz zaman aynı verilere ulaşım sağlayabiliriz. Artık 
+resmileşmiş bir durumda çünkü şirketler ve devlet kurumları 
+bile arşivlemek istedikleri bilgileri buluta kaydediyor. Hele 
+ki şu an evrakları raflara değil, e-imzalı belgeler buluta 
+kaydediliyor ve her şey resmi. Bunu sağlayan tek şey 0’lar ve 
+1’ler. Veriler bloklar halinde kaydedilir, örneğin; bu 
+yazdığım makale özetini Word programında kaydet tuşuna 
+bastığım anda, verilerin sürücüde nerede depolanacağını bulan 
+üretici yazılımını çağırır.
+Veriler internet üzerinden başka bir veri merkezine 
+iletilirken sürücünün içinde, veriler fiziksel olarak farklı 
+bloklarda bulunur. Fakat flash bellekteki farklılık; veriler 
+aynı bloğa yazılıp, bütün bitler lojik 1 olarak ayarlanıp 
+sonradan lojik 0 atanmasıdır. Bu durumda farklı bloklara 
+yazılmayan verilerin bozulması gibi bir durum söz konusudur. 
+Hata düzeltme kodları yeterli gelmediği için her bit farklı 
+bir blokta taşınmalıdır. Bir bloğun silinmesi yavaş olacağından, düzenlenmiş 
+verilerin bir kopyası boş olan bir bloğa kopyalanır ver güncel 
+olmayan veriler artık geçersiz olarak işaretlenir. Verilerin 
+saklandığı yer, verilerin geri okunmasında, yüklenmesinde ve 
+hata ayıklama kodlarının yapacağı işin minimuma inmesinde 
+büyük rolü vardır. Bulut veri merkezleri, ardı sıra kilitli 
+kapılar gibi, yedeklemek istediğiniz dosyayı ne kadar güvenli 
+bir bölgeye saklamak isterseniz o kadar derindeki kapının 
+arkasında saklayacaktır ama saklanan veriyi geri getirme 
+süremiz kilitli kapı sayısıyla doğru orantıdadır.Sabit disk 
+sürücüleri ve manyetik bant, yüzeylerini kaplayan parçacıkları 
+mıknatıslayarak verileri depolar. Veri merkezleri 
+harddisklerin yerine 4 5 kat daha pahalı fakat daha hızlı olan 
+SSDleri tercih ediyor. Dışarıdan benzemese dahi içerisinde 
+flash bellek yongalarıyla süslenmiş devre kartı vardır. Artık 
+yarıiletken sürücülerdeki flash bellek, her bit için tek bir 
+transistör kullanır. Daha önce de söylediğim gibi bunun sebebi 
+hata ayıklama kodlarının iş yükünü hafifletmek ve istenilen 
+veriye en kısa sürede - bozulmadan ulaşmaktır.

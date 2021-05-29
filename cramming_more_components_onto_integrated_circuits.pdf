@@ -1,0 +1,59 @@
+              "CRAMMİNG MORE COMPONENTS ONTO İNTEGRATED CİRCUİTS" 
+              
+Makale, entegrelerin elektroniğin geleceği oldugunu vurgulayarak başlıyor. Entegrasyonun yayılması 
+ile evler, arabalar, bilgisayarlar, bilgisayara bağlı çalışan birçok şey gibi önemli durumlar doğuracaktır. 
+Bunun nedeni entegrelerin olanak sağladıgı veri işleme sayesinde bilgisayarların veya daha büyük 
+sistemlerin, daha organize olması sayesinde daha hızlı olmaları ile mümkündür. Bu sayede ihtiyaç duyulan 
+birçok şeyin giderek küçülüp daha düşük maliyetlere ulaşacağı öngörülmüştür.
+Moore, kullanıcıya indirgemenin mümkün olmadıgı teknolojilerin entegreler sayesinde artık 
+mümkün olabileceğini ve daha minyatürize bir şekilde bugün yapılamayan birçok elektronik işlemin 
+gelecekte mümkün olacağını savunuyordu. Zamanla meydana gelen küçülme oranı; birçok araştırmacı 
+tarafından birbirinin kombinasyonu oldugu düşüncesi ile bu değişimlerin hepsinin biribinden esinlendiğini 
+savunuyordu.
+Entegrelerin varolduğu andan itibaren askeri alanlarda kullanılmaları zorunlu sayılabilecek derecede 
+güvenilir ve küçük boyuttaydı. Entegrelerin kolay ürtilebileceğini ve daha fazla iş yükü kaldırabileceğini ve 
+tasarım olarak da cok daha iyi bir tekniğe bağlı kalındığını belirtiyor.
+Entegrelerin güvenirliği zamanındaki sistem makinelere kıyasla harika performans göstermiştir. 
+Daha sonra tüm toplumda mevcut bulunup, şuan yetersiz kalınan birçok işleme cevap verecektir. Bu 
+nedenle entegreler düşük maliyetli, çok fonksiyonlu ve basitleştirilmiş tasarımı ile tercih edilecektir. 
+Bununla beraber birçok uygulama için yarı iletkenler kullanımda olacaktır. Silikon gibi bir yarı iletkenin 
+düşük maliyetinden dolayı yine temel malzeme olarak kullanılabileceğinin muhtemel oldugunu belitmiştir.
+Moore, basit devreler için bileşen başına maliyet neredeyse bileşen sayısıyla ters orantılı yani 
+eşdeğer bir paketteki yarı iletken parçası daha fazla bileşenden oluştuğu için azalan verim açığını 
+kapatmanın maliyeti artırdığını görmüştür. Daha sonra 5 yıl ileriyi düşünerek, devre başına yaklaşık 1000 
+bileşenin minimum kalacagını entegreler sayesinde mevcut maliyetin 5 yıl sonra şu ankinin 1/10(onda biri) 
+olacağını öngörmüştür. 
+Moore, boyutların ne kadar önemli olduğunu bildiğini ve entegre devrelerde izole yuksek
+performanslı transistörler, birkaç direnç ve birkaç diyot sayesinde inşa edilen bir bina kolonu 500 ayrı 
+bileşen içerebileceğini bunun da 65000 bileşenin sadece 1/4 inçkare alan kapladığını belirtiyor. Ayrıca 
+Moore, entegre devrelerinde ısıya dayalı bir sorun olmayacağını iki boyutlu olmalarından kaynaklı yüzeye 
+yakınlıklarına bağlıyor. 
+Moore’a göre entegre devreleri belirli bir sisteme bağlı kaldığımız sürece esnek teknikler geliştirerek 
+orantısız bir masrafın önüne geçilebilir. İlk olarak mantığa dayalı bir teknik izlenirken ileride tasarım ve 
+otomasyon prosedürleri çerçevesinde tekrar düzenlenebilir bir sistem olacaktı. Çünkü birbirinden ayrı fakat 
+beraber çalışabilen küçük sistemler büyük sistemlere oranla çok daha yararlı verimliydi. Bu sayede birim 
+başına düşen iş yükü azalacak, hızlı ve daha organize çalışabileceklerdi. 
+Entegre devreleri doğrusal sistemleri dijital sistemler kadar sabit bir değişime uğratmayacak, fakat 
+dijital sistemlerin içerisinde de yer alacaktı. Şimdilik kapasitör ve indüktörlerden feragat edemememizin 
+sebebini de doğrusal alandaki entegrelerin en büyük temel sınırlaması olmasıydı. Bazı rezonans olaylarına 
+dahil olsa bile doğası gereği daha fazlası yapılamıyordu. Bu nedenle Moore, “R-F amplifikatörünün ileride 
+minimum maliyete yüksek kazanç sağlayabileceğini bunun yanında kristal kararlılığa sahip osilatörlerin, 
+mikrodalga alanındaki birçok gelişmenin, radarda devrim niteliğindeki gelişmelerin ve antenlerin içerisinde 
+entegre kullanılacaktır” öngörmüştür.Gordon Moore, bir ropörtajında “Önündeki 10 yıl içinde “Elektronik Dergi”nin 35. yıldönümü baskısı 
+için silikon bileşenlerde neler olacağını tahmin etme görevini aldım. O zaman entegre devrelerde ne 
+yaptığımıza baktım sonra birkaç devre yaptık ve laboratuvarda bulunan en karmaşık yongalarda 30 devire 
+ulaştık. Aslında 1959 olan orijinal düzlemsel transistörün günlerinden beri, her yıl bir çip üzerine 
+koyabileceğimiz bileşen miktarını iki katına çıkardık. 1965'te bir çipte 60'a kadar bileşen ve yaklaşık 10 yıl 
+boyunca kör olarak tahmin edildim ve tamam dedim, 1975'te bir çipte yaklaşık 60 bin bileşenimiz olacak. 
+Bunun doğru bir tahmin olacağını bilmiyordum, ama 10 katlama yerine inanılmaz derecede yeterli ki 10 
+yılda 9 aldık, ama hala eğri boyunca oldukça iyi takip etti. Ve arkadaşlarımdan biri Cal Tech Profesörü 
+Dr.Carver Mead, bu Moore Yasasını adlandırdı.” diye konuşuyor. 
+Buradan yola çıkarak bir yorum yaparsam, aslında Moore şanslıydı. Ama neyi nasıl araştıracagını 
+biliyordu. Bir gözlem tahmini dahi olsa, laboratvuarda yapılmış bir gözlemdi. Şuan günümüzde kullandığımız 
+neredeyse her şeyin içerisine dahil olan hatta ana birimi olan entegrelerin, gelişiminin belli bir 
+kombinasyonda olduğunu birçok araştırmacı düşünürken, Moore 10 senelik emeğinin karşılığını bir 
+transistörü gözlemi sayesinde aldı. Şuan Gordon’un çizdiği ilerleme grafiği bir fit doğrusu olarak varsayılıyor 
+olması yaptığı tahminin, söylediği(2^2..) kombinasyonun doğruluğunu ve ne kadar iyi bir gözlemci olduğunu 
+kanıtlıyor.
+
+                                                                       Muhammet Fatih KESKİN
